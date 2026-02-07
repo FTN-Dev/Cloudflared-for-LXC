@@ -76,7 +76,7 @@ or if ur IPs is using SSL u can add this below in `/etc/cloudflared/config.yml`
 
 the line must be equals to `hostname`
 
-3. Register the DNS
+3. **Register the DNS**
 
 - DNS Register
 
@@ -84,7 +84,7 @@ the line must be equals to `hostname`
 cloudflared tunnel route dns tunnel-name yourdomain.com
 ```
 
-4. Cloudflared test
+4. **Cloudflared test**
 
 - Manual Run
 
